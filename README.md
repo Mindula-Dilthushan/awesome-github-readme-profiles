@@ -5,7 +5,7 @@
 [//]: # (repo main details  -------------------------------------------------------------------------------------------)
 <div align="left">
 
-💫 A Collections of [Developer GitHub profile README's]() examples.
+💫 A Collections of [Developer GitHub profile README's](https://github.com/Mindula-Dilthushan/awesome-github-readme-profiles) examples.
 
 💫 Read the [Guideline.](https://github.com/Mindula-Dilthushan/awesome-github-readme-profiles/blob/master/CONTRIBUTING.md) free to add your or someone else's GitHub profile README file.
 
