@@ -85,9 +85,6 @@
 ## P
   💠 [Pasan Abeysekara](https://github.com/pasan1/pasan1/blob/main/README.md)
 
-
-💠 [Pasan Abeysekara](https://github.com/pasan1/pasan1/blob/main/README.md)
-
 ## Q
 
 ## R
