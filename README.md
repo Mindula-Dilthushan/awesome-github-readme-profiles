@@ -2,7 +2,8 @@
 
 # Awesome GitHub ReadME ProFiles 👽
 
-[//]: # (repo main details  -------------------------------------------------------------------------------------------)
+[//]: # "repo main details  -------------------------------------------------------------------------------------------"
+
 <div align="left">
 
 💫 A Collections of [Developer GitHub profile README's](https://github.com/Mindula-Dilthushan/awesome-github-readme-profiles) examples.
@@ -14,9 +15,11 @@
 </div>
 
 ###
+
 </div>
 
-[//]: # (repo badges   ------------------------------------------------------------------------------------------------)
+[//]: # "repo badges   ------------------------------------------------------------------------------------------------"
+
 <div align="center">
 
 ![GitHub issues](https://img.shields.io/github/issues/Mindula-Dilthushan/awesome-github-readme-profiles?&labelColor=black&color=eb3b5a&label=Issues&logo=issues&logoColor=black&style=for-the-badge)
@@ -28,20 +31,20 @@
 
 </div>
 
+[//]: # "repo credits and reference -----------------------------------------------------------------------------------"
 
-[//]: # (repo credits and reference -----------------------------------------------------------------------------------)
-<div align="left"> 
+<div align="left">
 
 ### Click and Jump 🤪
 
-[//]: # (table collection ---------------------------------------------------------------------------------------------)
+[//]: # "table collection ---------------------------------------------------------------------------------------------"
 
 |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         |         |
-|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|---------|
+| ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- | ------- |
 | [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) |
 | [W](#w) | [Y](#y) | [X](#x) | [Z](#z) |
 
-[//]: # (content area -------------------------------------------------------------------------------------------------)
+[//]: # "content area -------------------------------------------------------------------------------------------------"
 
 ###
 
@@ -51,31 +54,29 @@
 
 ## C
 
-## D 
+## D
 
 ## E
 
-## F 
+## F
 
-## G 
+## G
 
-## H 
-  
-  💠 [Henry Theodore](https://github.com/Henry-Theodore/Henry-Theodore/blob/main/README.md)
+## H
 
-  
+💠 [Henry Theodore](https://github.com/Henry-Theodore/Henry-Theodore/blob/main/README.md)
+
 ## I
 
 ## J
 
 ## K
 
-## L 
+## L
 
 ## M
 
 💠 [Mindula Dilthushan](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/README.md)
-
 
 ## N
 
@@ -84,6 +85,8 @@
 ## P
   💠 [Pasan Abeysekara](https://github.com/pasan1/pasan1/blob/main/README.md)
 
+
+💠 [Pasan Abeysekara](https://github.com/pasan1/pasan1/blob/main/README.md)
 
 ## Q
 
@@ -103,9 +106,7 @@
 
 ## Z
 
-
-
-[//]: # (credits and reference ----------------------------------------------------------------------------------------)
+[//]: # "credits and reference ----------------------------------------------------------------------------------------"
 
 ##
 
@@ -113,12 +114,11 @@
 
 🏷️ All credits goes to the original authors of the GitHub profile. I don't own any content.
 
-### 
+###
 
 ![](https://img.shields.io/static/v1?label=&message=Reference&color=575fcf&style=for-the-badge)
 
 💡 [coderjojo](https://github.com/coderjojo)<br>
 💡 [durgeshsamariya](https://github.com/durgeshsamariya)
-
 
 </div>
