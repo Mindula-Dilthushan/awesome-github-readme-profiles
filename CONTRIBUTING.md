@@ -23,14 +23,14 @@ git clone https://github.com/Mindula-Dilthushan/awesome-github-readme-profiles.g
 
    - Example new branch name
 ```md
-dev_{username_or_short name}
+dev_username_or_short name
 ```
 
 3. update README.md file and link Your README.md file path ✅
 
    - Example README File name
 ```md
-💠 [Your Name]({README.md File path})
+💠 [Your Name](README.md File path)
 ```
 
 4. Open a PR (<b> <i> dev_shan </i> </b> ) to this repo and let's showcase your github readme profile!  ✅
