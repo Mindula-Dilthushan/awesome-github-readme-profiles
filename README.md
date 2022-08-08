@@ -54,7 +54,6 @@
 
 💠 [Aakarsh-B](https://github.com/Aakarsh-B/Aakarsh-B/blob/main/README.md)
 
-
 ## B
 
 ## C
@@ -66,6 +65,8 @@
 ## F
 
 ## G
+
+💠 [GathsaraH](https://github.com/GathsaraH/GathsaraH/blob/main/README.md)
 
 ## H
 
