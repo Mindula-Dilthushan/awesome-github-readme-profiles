@@ -62,6 +62,8 @@
 
 💠 [chama97](https://github.com/chama97/chama97/blob/main/README.md)
 
+💠 [CHARITH127](https://github.com/CHARITH127/CHARITH127/blob/main/README.md)
+
 ## D
 
 💠 [david-kariuki](https://github.com/david-kariuki/david-kariuki/blob/main/README.md)
