@@ -60,9 +60,10 @@
 
 💠 [codepamella](https://github.com/codepamella/codepamella/blob/main/README.md)
 
-
-
 ## D
+
+💠 [david-kariuki](https://github.com/david-kariuki/david-kariuki/blob/main/README.md)
+
 
 ## E
 
