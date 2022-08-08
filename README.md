@@ -76,6 +76,8 @@
 
 💠 [Henry Theodore](https://github.com/Henry-Theodore/Henry-Theodore/blob/main/README.md)
 
+💠 [Hasindi](https://github.com/Hasindi/Hasindi/blob/main/README.md)
+
 ## I
 
 ## J
