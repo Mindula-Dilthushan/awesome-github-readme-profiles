@@ -126,6 +126,8 @@
 
 ## S
 
+💠 [Steve Meadows](https://github.com/Bickeringmonkey/Bickeringmonkey/blob/main/README.md)
+
 ## T
 
 💠 [Tieskay](https://github.com/tieskay/tieskay/blob/main/README.md)
