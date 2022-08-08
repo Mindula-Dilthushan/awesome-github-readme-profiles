@@ -58,7 +58,18 @@
 
 ## C
 
+💠 [codepamella](https://github.com/codepamella/codepamella/blob/main/README.md)
+
+💠 [chama97](https://github.com/chama97/chama97/blob/main/README.md)
+
+💠 [CHARITH127](https://github.com/CHARITH127/CHARITH127/blob/main/README.md)
+
+💠 [carameltora](https://github.com/carameltora/carameltora/blob/main/README.md)
+
 ## D
+
+💠 [david-kariuki](https://github.com/david-kariuki/david-kariuki/blob/main/README.md)
+
 
 ## E
 
@@ -72,15 +83,28 @@
 
 💠 [Henry Theodore](https://github.com/Henry-Theodore/Henry-Theodore/blob/main/README.md)
 
+💠 [Hasindi](https://github.com/Hasindi/Hasindi/blob/main/README.md)
+
 ## I
 
+💠 [Isururaveen20](https://github.com/IsuruRaveen20/Isururaveen20/blob/main/README.md)
+
+💠 [Imesh7](https://github.com/Imesh7/Imesh7/blob/main/README.md)
+
 ## J
+
+💠 [jptsaikoski](https://github.com/jptsaikoski/jptsaikoski/blob/main/README.md)
+
+💠 [jeffersonsimaogoncalves](https://github.com/jeffersonsimaogoncalves/jeffersonsimaogoncalves/blob/master/README.md)
+
 
 ## K
 
 ## L
 
 💠 [lochanathiwanka](https://github.com/lochanathiwanka/lochanathiwanka/blob/main/README.md)
+
+💠 [lucasmarcuzo](https://github.com/lucasmarcuzo/lucasmarcuzo/blob/main/README.md)
 
 
 ## M
@@ -90,6 +114,10 @@
 💠 [MatheusFellipi](https://github.com/MatheusFellipi/MatheusFellipi/blob/main/README.md)
 
 💠 [mabeldlarek](https://github.com/mabeldlarek/mabeldlarek/blob/main/README.md)
+
+💠 [malconn](https://github.com/malconn/malconn/blob/main/README.md)
+
+💠 [MilashaThathsarani](https://github.com/MilashaThathsarani/MilashaThathsarani/blob/main/README.md)
 
 
 ## N
@@ -105,7 +133,12 @@
 
 ## R
 
+💠 [RafaelRodriguesFraga](https://github.com/RafaelRodriguesFraga/RafaelRodriguesFraga/blob/main/README.md)
+
+
 ## S
+
+💠 [Steve Meadows](https://github.com/Bickeringmonkey/Bickeringmonkey/blob/main/README.md)
 
 ## T
 
