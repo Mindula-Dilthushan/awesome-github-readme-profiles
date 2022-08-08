@@ -80,6 +80,9 @@
 
 ## L
 
+💠 [lochanathiwanka](https://github.com/lochanathiwanka/lochanathiwanka/blob/main/README.md)
+
+
 ## M
 
 💠 [Mindula Dilthushan](https://github.com/Mindula-Dilthushan/Mindula-Dilthushan/blob/master/README.md)
