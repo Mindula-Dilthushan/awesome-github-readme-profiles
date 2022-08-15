@@ -70,6 +70,7 @@
 
 💠 [david-kariuki](https://github.com/david-kariuki/david-kariuki/blob/main/README.md)
 
+💠 [Dhanuka99](https://github.com/Dhanuka99/Dhanuka99/blob/main/README.md)
 
 ## E
 
@@ -179,6 +180,9 @@
 💠 [thihan200](https://github.com/thihan200/thihan200/blob/main/README.md)
 
 ## U
+
+💠 [udaraJ08](https://github.com/udaraJ08/udaraJ08/blob/main/README.md)
+
 
 ## W
 
