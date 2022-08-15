@@ -97,6 +97,8 @@
 
 💠 [jeffersonsimaogoncalves](https://github.com/jeffersonsimaogoncalves/jeffersonsimaogoncalves/blob/master/README.md)
 
+💠 [janithabhayarathna](https://github.com/Janithabhayarathna/janithabhayarathna/blob/main/README.md)
+
 
 ## K
 
@@ -124,6 +126,9 @@
 
 ## N
 
+💠 [NaveenDotMe](https://github.com/NaveenDotMe/NaveenDotMe/blob/main/README.md)
+
+
 ## O
 
 ## P
@@ -136,6 +141,8 @@
 ## R
 
 💠 [RafaelRodriguesFraga](https://github.com/RafaelRodriguesFraga/RafaelRodriguesFraga/blob/main/README.md)
+
+💠 [RashindiPaulusha99](https://github.com/RashindiPaulusha99/RashindiPaulusha99/blob/main/README.md)
 
 
 ## S
