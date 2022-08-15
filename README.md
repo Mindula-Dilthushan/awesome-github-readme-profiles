@@ -155,6 +155,8 @@
 
 💠 [RashindiPaulusha99](https://github.com/RashindiPaulusha99/RashindiPaulusha99/blob/main/README.md)
 
+💠 [RasinthaDilshanJayarathne](https://github.com/RasinthaDilshanJayarathne/RasinthaDilshanJayarathne/blob/main/README.md)
+
 
 ## S
 
@@ -163,6 +165,8 @@
 💠 [Steve Meadows](https://github.com/Bickeringmonkey/Bickeringmonkey/blob/main/README.md)
 
 💠 [shehandilusanka97](https://github.com/shehandilusanka97/shehandilusanka97/blob/main/README.md)
+
+💠 [Sithum-Dilshan](https://github.com/Sithum-DIlshan/Sithum-Dilshan/blob/main/README.md)
 
 ## T
 
