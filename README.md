@@ -72,10 +72,14 @@
 
 💠 [carameltora](https://github.com/carameltora/carameltora/blob/main/README.md)
 
+💠 [cyryll](https://github.com/cyryll/cyryll/blob/main/README.md)
+
 
 ## D
 
-💠 [david-kariuki](https://github.com/david-kariuki/david-kariuki/blob/main/README.md)
+💠 [David Kariuki](https://github.com/david-kariuki/david-kariuki/blob/main/README.md)
+
+💠 [Diram Bora](https://github.com/dirambora/dirambora/blob/main/README.md)
 
 💠 [Dhanuka99](https://github.com/Dhanuka99/Dhanuka99/blob/main/README.md)
 
@@ -196,6 +200,8 @@
 💠 [shehandilusanka97](https://github.com/shehandilusanka97/shehandilusanka97/blob/main/README.md)
 
 💠 [Sithum-Dilshan](https://github.com/Sithum-DIlshan/Sithum-Dilshan/blob/main/README.md)
+
+💠 [Shubham Sharma](https://github.com/sh1nine96/sh1nine96/blob/main/README.md)
 
 
 ## T
